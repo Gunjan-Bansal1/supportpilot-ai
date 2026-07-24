@@ -170,7 +170,7 @@ MODEL_NAME=llama-3.3-70b-versatile
 </p>
 
 <p align="center">
-  <img src="screenshots/customer panel2.png" width="48%" />
+  <img src="screenshots/customer panel 2.png" width="48%" />
   <img src="screenshots/customer panel3.png" width="48%" />
 </p>
 
