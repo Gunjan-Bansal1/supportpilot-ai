@@ -160,13 +160,33 @@ GROQ_API_KEY=your_api_key
 MODEL_NAME=llama-3.3-70b-versatile
 ```
 
-# 📸 Screenshots
+# 📸 Application Screenshots
 
-Add screenshots for:
-- Home
-- Customer Chat
-- Upload Page
-- Admin Dashboard
+## 👤 Customer Panel
+
+<p align="center">
+  <img src="screenshots/customer panel.png" width="48%" />
+  <img src="screenshots/customer panel1.png" width="48%" />
+</p>
+
+<p align="center">
+  <img src="screenshots/customer panel2.png" width="48%" />
+  <img src="screenshots/customer panel3.png" width="48%" />
+</p>
+
+---
+
+## 👨‍💼 Admin Panel
+
+<p align="center">
+  <img src="screenshots/Admin panel1.png" width="48%" />
+  <img src="screenshots/admin panel2.png" width="48%" />
+</p>
+
+<p align="center">
+  <img src="screenshots/admin panel3.png" width="48%" />
+  <img src="screenshots/admin panel4.png" width="48%" />
+</p>
 
 # 🚀 Future Improvements
 
