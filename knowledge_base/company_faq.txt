@@ -1,0 +1,43 @@
+==============================
+SupportPilot AI Knowledge Base
+==============================
+
+Refund Policy
+-------------
+Customers can request a refund within 30 days of purchase if the product has not been damaged due to misuse.
+Refunds are processed within 5-7 business days after approval.
+
+Shipping Policy
+---------------
+Standard shipping takes 3-5 business days.
+Express shipping takes 1-2 business days.
+Customers receive a tracking ID once the order is shipped.
+
+Payment Issues
+--------------
+If a payment is deducted but the order is not confirmed, customers should wait 30 minutes.
+If the order is still not confirmed, contact customer support with the transaction ID.
+Refunds for failed payments are generally processed within 5 business days.
+
+Password Recovery
+-----------------
+Customers can reset their password using the "Forgot Password" option on the login page.
+A password reset link is sent to the registered email address.
+
+Order Cancellation
+------------------
+Orders can be cancelled before they are shipped.
+After shipment, orders cannot be cancelled but may be returned according to the refund policy.
+
+Contact Support
+---------------
+Customer Support Email:
+support@supportpilot.ai
+
+Customer Support Phone:
++1-800-123-4567
+
+Working Hours
+-------------
+Monday to Friday
+9:00 AM to 6:00 PM

@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+joblib
+python-dotenv
+groq
+langchain
+langchain-community
+langchain-core
+faiss-cpu
+sentence-transformers
+pypdf
+streamlit
